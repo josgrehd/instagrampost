@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+    align-items: center;
+}
+.Post{
+    display:flex;
+    flex-flow: column wrap;
+    background-color: white;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    border: solid rgb(221, 22, 115);
+}
+.PostHeader{
+    display: flex;
+    justify-content: flex-start;
+    border: solid rgb(13, 245, 94);
+    width: 800px;
+    height: auto;
+}
+.Icono{
+
+    width: auto;
+    height: auto;
+    color: black;
+    border: solid cornflowerblue;
+}
+.Titulo{
+    width: auto;
+    height: auto;
+    color: black;
+    border: solid cornflowerblue;
+}
+.Puntos{
+    flex-grow: 1;
+    width: auto;
+    height: auto;
+    color: black;
+    border: solid cornflowerblue;
+    text-align: right;
+}
+.Posting{
+    margin: 0 auto;
+    width: 800px;
+    height: auto;
+    border: solid rgb(18, 173, 234);
+}
+.PieFoto{
+    flex-wrap: wrap;
+    border: solid rgb(108, 65, 202);
+    width: 800px;
+    height: auto;
+}
+.Emoticones{
+    width: auto;
+    height: auto;
+    color: black;
+    border: solid cornflowerblue;
+
+}
+.Likes{
+    width: auto;
+    height: auto;
+    color: black;
+    border: solid cornflowerblue;
+}
+.DescripcionFoto{
+    width: auto;
+    height: auto;
+    color: black;
+    border: solid cornflowerblue;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+
+h3{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#opaco{
+    margin-top: 0;
+    opacity: 50%;
+}
+
+.imagen{
+width: 800px;
+height: auto;
+}
+#parrafo{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imgIcon{
+    width: 50px;
+    height: 50px;
+}
+.imgIcon1{
+    width: 50px;
+    height: 50px;
+    margin-left: 73%;
+}
